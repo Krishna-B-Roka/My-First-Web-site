@@ -171,7 +171,7 @@ input[type="submit"] {
     }
   }
 .responsive-image {
-      max-width: 20%;
+      max-width: 80%;
     }
 .media-query-box {
       padding: 20px;
