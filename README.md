@@ -4,3 +4,4 @@ Study Unit: Web-Site-Development-ND00CC68-3002
 - 03B completed
 - 04B Completed
 - 05B Completed
+- 06B Completed
